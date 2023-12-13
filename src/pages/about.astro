@@ -1,0 +1,180 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+import ContactCTA from '../components/ContactCTA.astro';
+import Hero from '../components/Hero.astro';
+---
+
+<BaseLayout title="About | Hugo Bouchez" description="About Hugo Bouchez">
+	<div class="stack gap-20">
+		<main class="wrapper about">
+			<Hero
+				title="About"
+				tagline="Thanks for stopping by. Read below to learn more about myself and my background."
+			>
+				<!--
+<img
+    width="1553"
+    height="873"
+    src="/assets/at-work.jpg"
+    alt="Jeanine White at work with a colleague"
+/>
+-->
+
+			</Hero>
+
+			<section>
+				<h2 class="section-title">Education</h2>
+				<div class="content">
+					<p>
+						2023: <strong>HEC Management School of Liège</strong><br>
+						&nbsp; &nbsp; &nbsp; &nbsp; Master Degree in Management, Curriculums: <em>International Strategic Marketing</em>
+					</p>
+					
+					<p>
+						2023: Advanced Excel TOSA Certification (854/1000)
+					</p>
+					
+					<p>
+						2022: SAS Certificate of completion <em>SAS Programming 1</em> (671/1000)
+					</p>
+					
+					<p>
+						2022: SAS Certificate of completion <em>Predictive Modeler Using SAS Enterprise Miner 14</em> (650/1000)
+					</p>
+					
+					<p>
+						2021: <strong>HEC Management School of Liège</strong><br>
+						&nbsp; &nbsp; &nbsp; &nbsp; Bachelor in Economics and Management
+					</p>
+					
+					<p>
+						2018: <strong>Saint Barthelemy (Liège)</strong> Secondary school: Option Economics & languages<br> 
+					</p>
+					
+
+						
+				</div>
+			</section>
+			<section>
+				<h2 class="section-title">Professional Experience</h2>
+				<div class="content">
+					<p>2022 – 2023: <strong>Abakus-It-Solutions</strong>: Internship as Data Analyst to find a BI solution for the company.</p>
+					
+					<p>2021 – 2023: <strong>Esn Ulg</strong>: Organization of events and meetings for Erasmus students in Liège & responsible for United Esn Liège.</p>
+					
+					<p>2019 – 2023: <strong>University of Liège</strong>: Student instructor in statistics and mathematics from September 2019.</p>
+					
+					<p>2019-2020: <strong>Illucity</strong>: Event organizer and virtual reality booth manager.</p>
+					
+					<p>2019: <strong>Pepperminds</strong>: "Face 2 Face" for WWF & Child Focus.</p>
+					
+					<p>2019: <strong>Mega</strong>: Customer Relations Manager by phone.</p>
+					
+					<p>2016 – 2018: <strong>Ocarina</strong>: Certified Animator, organizer of events for young people in Liège.</p>
+					
+					<p>2015: <strong>L'Ōkami</strong>: Head of pre-sales and bar organizer for the "Ōkami" project.</p>
+				</div>
+			</section>
+			<section>
+				<h2 class="section-title">Languages</h2>
+				<div class="content">
+					<p>French: Mother tongue</p>
+					
+					<p>English: Professional conversation (B2+/C1)</p>
+					
+					<p>Spanish: Casual conversation (B2)</p>
+				</div>
+			</section>
+			<section>
+				<h2 class="section-title">Skills</h2>
+				<div class="content">
+					<p>Office package and others: Word, Excel, PowerPoint</p>
+					
+					<p>Programming Languages: SAS Studio base programming, SQL, R & Python</p>
+					
+					<p>Data Analytics software (BI tools): QlikSense & Tableau</p>
+					
+					<p>Business management software (ERP tools): Odoo, SAP</p>
+					
+					<p>Soft skills: Strong sense of duty and discipline of work; Analytical and logical mindset; Attentive to details; Openness to Public Relation acquaintance,</p>
+					<p>Easy contact with people; Ability to listen and dialogue; Adaptability in new contexts; Organised, Accountable and Responsible</p>
+				</div>
+			</section>
+			<section>
+				<h2 class="section-title">Hobbies and Interests</h2>
+				<div class="content">
+					<p>Organizing Activities for children as certified animator</p>
+					
+					<p>Guitar</p>
+					
+					<p>Tennis</p>
+				</div>
+			</section>
+			
+			
+			
+			
+		</main>
+
+		<ContactCTA />
+	</div>
+</BaseLayout>
+
+<style>
+	.about {
+		display: flex;
+		flex-direction: column;
+		gap: 3.5rem;
+	}
+
+	img {
+		margin-top: 1.5rem;
+		border-radius: 1.5rem;
+		box-shadow: var(--shadow-md);
+	}
+
+	section {
+		display: flex;
+		flex-direction: column;
+		gap: 0.5rem;
+		color: var(--gray-200);
+	}
+
+	.section-title {
+		grid-column-start: 1;
+		font-size: var(--text-xl);
+		color: var(--gray-0);
+	}
+
+	.content {
+		grid-column: 2 / 4;
+	}
+
+	.content :global(a) {
+		text-decoration: 1px solid underline transparent;
+		text-underline-offset: 0.25em;
+		transition: text-decoration-color var(--theme-transition);
+	}
+
+	.content :global(a:hover),
+	.content :global(a:focus) {
+		text-decoration-color: currentColor;
+	}
+
+	@media (min-width: 50em) {
+		.about {
+			display: grid;
+			grid-template-columns: 1fr 60% 1fr;
+		}
+
+		.about > :global(:first-child) {
+			grid-column-start: 2;
+		}
+
+		section {
+			display: contents;
+			font-size: var(--text-lg);
+		}
+	}
+</style>
