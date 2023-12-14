@@ -1,35 +1,104 @@
 ---
-title: Markdown Mystery Tour
+title: ABAKUS IT-SOLUTIONS
 publishDate: 2020-03-02 00:00:00
-img: /assets/stock-1.jpg
-img_alt: Iridescent ripples of a bright blue and pink liquid
+img: /assets/Abakus.jpg
+img_alt: ABAKUS IT_SOLUTIONS
 description: |
-  We designed a whodunnit-style game to introduce Markdown formatting. Suspense — suspicion — syntax!
+  IMPLEMENTATION OF A BUSINESS INTELLIGENCE SOLUTION FOR    ABAKUS IT-SOLUTIONS USING QLIKSENSE
 tags:
-  - Design
-  - Dev
-  - User Testing
+  - BI solutions
+  - Marketing Strategy
+  - Implementation
 ---
 
-## Level-two heading
+**About ABAKUS IT-SOLUTIONS:**
+ABAKUS IT-SOLUTIONS specializes in tailored IT services, particularly customizing Odoo ERP solutions for businesses across various sectors.
 
-> Tell me and I forget. Teach me and I remember. Involve me and I learn.
+---
 
-Lorem ipsum dolor sit amet, <a href="https://astro.build/">Astro</a> makes people happy. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Proin nibh nisl condimentum id venenatis a condimentum vitae. Dapibus ultrices in iaculis nunc. Arcu odio ut sem nulla pharetra diam sit amet. Diam quis enim lobortis scelerisque fermentum dui faucibus in ornare.
+### Project Implementation of a BI Solution
 
-Arcu dui vivamus arcu felis bibendum ut tristique et egestas. Eget gravida cum sociis natoque penatibus. Cras fermentum odio eu feugiat pretium nibh. Proin nibh nisl condimentum id venenatis. Porta nibh venenatis cras sed felis eget velit. Id diam vel quam elementum pulvinar etiam non.
+The primary goal of this project is the deployment of a BI solution, specifically Qlik Sense by ABAKUS IT-SOLUTIONS, across multiple departments. ABAKUS IT-SOLUTIONS has prioritized developing a comprehensive solution for the SOL department, specializing in customized business solutions and integration through the Odoo ERP. This project also encompasses the consideration of two additional departments within its scope.
 
-### Level-three heading
+#### Department Focus
 
-Ultrices tincidunt arcu non sodales neque sodales ut. Sed enim ut sem viverra aliquet eget sit amet. Lacus luctus accumsan tortor posuere ac ut consequat semper viverra. Viverra accumsan in nisl nisi scelerisque eu ultrices. In massa tempor nec feugiat nisl pretium fusce.
+The primary emphasis for ABAKUS IT-SOLUTIONS is to concentrate on and evolve a holistic solution for the SOL department. This department is dedicated to developing and integrating tailored solutions for various businesses, relying significantly on the Odoo ERP infrastructure.
 
-### Level-three heading
+#### Expansion to Other Departments
 
-Sed pulvinar porttitor mi in ultricies. Etiam non dolor gravida eros pulvinar pellentesque et dictum ex. Proin eu ornare ligula, sed condimentum dui. Vivamus tincidunt tellus mi, sed semper ipsum pharetra a. Suspendisse sollicitudin at sapien nec volutpat. Etiam justo urna, laoreet ac lacus sed, ultricies facilisis dolor. Integer posuere, metus vel viverra gravida, risus elit ornare magna, id feugiat erat risus ullamcorper libero. Proin vitae diam auctor, laoreet lorem vitae, varius tellus.
+While the SOL department is the central focus, the project extends its scope to encompass two other departments. This expansion aims to ensure a comprehensive deployment of the BI solution across multiple areas within the organization.
 
-Aenean pretium purus augue, ut bibendum erat convallis quis. Cras condimentum quis velit ac mollis. Suspendisse non purus fringilla, venenatis nisl porta, finibus odio. Curabitur aliquet metus faucibus libero interdum euismod. Morbi sed magna nisl. Morbi odio nibh, facilisis vel sapien eu, tempus tincidunt erat. Nullam erat velit, sagittis at purus quis, tristique scelerisque tortor. Pellentesque lacinia tortor id est aliquam viverra. Vestibulum et diam ac ipsum mollis fringilla.
+##### Key Objectives
 
-#### Level-four heading
+- Develop a complete solution for the SOL department
+- Extend BI implementation to two other departments
+- Ensure seamless integration with Odoo ERP for optimal functionality
 
-- We noted this
-- And also this other point
+### Processus de Mise en Œuvre:
+
+1. **Identification des KPIs**
+
+2. **Collecte et Préparation des Données**
+
+3. **Modélisation des Données**
+
+4. **Création de Tableaux de Bord et Rapports**
+
+5. **Formation des Utilisateurs**
+
+6. **Déploiement et Maintenance**
+
+7. **Évaluation de l'Effetivité**
+
+### Impact of Qlik Sense Implementation
+
+I implemented Qlik Sense BI across three vital departments at ABAKUS IT-SOLUTIONS, delivering substantial outcomes:
+
+#### Management Department
+
+- Introduced innovative dashboards for systematic financial evaluation
+- Tracked consultant performance, revenue, client turnover rates, and certifications via interactive management dashboards
+
+<img
+    alt="Hugo Bouchez"
+    width="500"
+    height="500"
+    src="/assets/Imagedashboardmanagement.png"
+/>
+<br>
+
+#### SOL Department
+
+- Transformed project monitoring and financial analysis
+- Created a dedicated SOL application for comprehensive project tracking and financial insights, ensuring automatic updates for data reliability
+
+<img
+    alt="Hugo Bouchez"
+    width="500"
+    height="500"
+    src="/assets/ImagedashboardSOL1.png"
+/>
+<br>
+
+<img
+    alt="Hugo Bouchez"
+    width="500"
+    height="500"
+    src="/assets/ImagedashboardSOL2.png"
+/>
+<br>
+
+#### Administrative Level
+
+- Designed essential dashboards for daily task tracking and subscription monitoring
+- Identified potential issues in Odoo and facilitated timely employee request fulfillment, enhancing overall efficiency
+
+This implementation streamlined operations, provided comprehensive insights, and empowered data-driven decision-making.
+
+
+<img
+    alt="Hugo Bouchez"
+    width="500"
+    height="500"
+    src="/assets/ImagedashboardAdm.png"
+/>
