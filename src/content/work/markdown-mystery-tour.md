@@ -11,10 +11,9 @@ tags:
   - Implementation
 ---
 
-**About ABAKUS IT-SOLUTIONS:**
+### About ABAKUS IT-SOLUTIONS:
 ABAKUS IT-SOLUTIONS specializes in tailored IT services, particularly customizing Odoo ERP solutions for businesses across various sectors.
 
----
 
 ### Project Implementation of a BI Solution
 
@@ -36,23 +35,23 @@ While the SOL department is the central focus, the project extends its scope to 
 
 ### Processus de Mise en Œuvre:
 
-1. **Identification des KPIs**
+1. **Identification of KPIs**
 
-2. **Collecte et Préparation des Données**
+2. **Data Collection and Preparation**
 
-3. **Modélisation des Données**
+3. **Data Modeling**
 
-4. **Création de Tableaux de Bord et Rapports**
+4. **Dashboard and Report Creation**
 
-5. **Formation des Utilisateurs**
+5. **User Training**
 
-6. **Déploiement et Maintenance**
+6. **Deployment and Maintenance**
 
-7. **Évaluation de l'Effetivité**
+7. **Effectiveness Evaluation**
 
 ### Impact of Qlik Sense Implementation
 
-I implemented Qlik Sense BI across three vital departments at ABAKUS IT-SOLUTIONS, delivering substantial outcomes:
+I implemented Qlik Sense BI across three vital departments at ABAKUS IT-SOLUTIONS, delivering substantial outcome, here I will show you some of the dashboards I created:
 
 #### Management Department
 
