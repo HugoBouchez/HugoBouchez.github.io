@@ -1,14 +1,14 @@
 ---
-title: ABAKUS IT-SOLUTIONS
+title: QlikSense - Implementation of a business intelligence solution for abakus it-solutions
 publishDate: 2020-03-02 00:00:00
 img: /assets/Abakus.jpg
 img_alt: ABAKUS IT_SOLUTIONS
-description: |
-  IMPLEMENTATION OF A BUSINESS INTELLIGENCE SOLUTION FOR    ABAKUS IT-SOLUTIONS USING QLIKSENSE
+description: BI project with QlikSense
 tags:
   - BI solutions
   - Marketing Strategy
   - Implementation
+  - QlikSense
 ---
 
 ### About ABAKUS IT-SOLUTIONS:
