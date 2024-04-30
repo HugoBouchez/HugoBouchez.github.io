@@ -1,7 +1,7 @@
 ---
 title: QlikSense - Implementation of a business intelligence solution for abakus it-solutions
 publishDate: 2020-03-02 00:00:00
-img: /assets/Abakus.jpg
+img: /assets/Abakus3.jpg
 img_alt: ABAKUS IT_SOLUTIONS
 description: BI project with QlikSense
 tags:
@@ -48,6 +48,31 @@ While the SOL department is the central focus, the project extends its scope to 
 6. **Deployment and Maintenance**
 
 7. **Effectiveness Evaluation**
+
+#### Data modeling
+
+In Qlik, creating keys during data loading links tables together efficiently. Keys, unique identifiers for each record, enable data retrieval and comprehensive analysis. Linking tables enhances data integration for dashboards, facilitating informed decision-making. For example, the 'Project' table and 'project_task' table are linked via the 'id' field, ensuring accurate connections.
+
+<img
+    alt="Hugo Bouchez"
+    width="500"
+    height="500"
+    src="/assets/Data loading.png"
+/>
+<br>
+
+The data model view visually represents table connections, aiding in understanding and troubleshooting.
+
+<img
+    alt="Hugo Bouchez"
+    width="500"
+    height="500"
+    src="/assets/Data modeling.png"
+/>
+<br>
+
+Understanding data structure and relationships is crucial for seamless dashboard deployment, requiring a methodical approach.
+
 
 ### Impact of Qlik Sense Implementation
 
