@@ -61,7 +61,7 @@ In Qlik, creating keys during data loading links tables together efficiently. Ke
 />
 <br>
 
-The data model view visually represents table connections, aiding in understanding and troubleshooting.
+The data model view visually represents table connections, aiding in understanding and addressing concerns.
 
 <img
     alt="Hugo Bouchez"
