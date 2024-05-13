@@ -1,7 +1,7 @@
 ---
 title: Tableau - Report on the review score of the Worst sellers of Olist
 publishDate: 2019-12-01 00:00:00
-img: /assets/Olist.jpg
+img: /assets/worst.jpg
 img_alt: Olistcompany
 description: BI project with Tableau
   

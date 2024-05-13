@@ -1,7 +1,7 @@
 ---
 title: Python - IMDb Visualizing Cinematic Trends
 publishDate: 2019-10-02 00:00:00
-img: /assets/IMDb.jpg
+img: /assets/movie.jpg
 img_alt: IMBd
 description: "Visualizing IMDb and Allociné Film Trends."
 tags:
