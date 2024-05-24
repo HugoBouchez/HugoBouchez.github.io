@@ -1,4 +1,10 @@
 ---
+/* Pour metre sur github il faut suivre ces commandes dans le terminal : 
+git add .
+git commit -m " Mettre le titre que l'on veut"
+git push -u origin main
+
+*/
 import { getCollection } from 'astro:content';
 
 import BaseLayout from '../layouts/BaseLayout.astro';
@@ -37,3 +43,4 @@ const projects = (await getCollection('work')).sort(
 		<ContactCTA />
 	</div>
 </BaseLayout>
+
