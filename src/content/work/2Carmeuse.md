@@ -10,9 +10,6 @@ tags:
   - Stakeholder Management
   - Data Visualization
 ---
-***Waiting for confirmation to display information.***
-
-<!--
 
 ***No data or dashboards will be shown for this project in order to respect client confidentiality.***
 <br>
@@ -89,4 +86,4 @@ Finally, this mission bolstered Intys Consulting's credibility in delivering tai
 />
 <br>
 
--->
+
